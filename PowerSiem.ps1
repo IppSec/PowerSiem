@@ -1,4 +1,5 @@
-# Inspired SilentBreakSecurity DSOPS 1 Course - NetSPI
+# Inspired SilentBreakSecurity DSOPS 1 Course - (SilentBreakSecurity has since been acquired by NetSPI)
+
 $ErrorActionPreference = "SilentlyContinue"
 
 Function Parse-Event {
